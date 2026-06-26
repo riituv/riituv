@@ -19,6 +19,6 @@
 ## 📬 Let's Connect
 
 - ✉️ **Email:** [rituvyas141@gmail.com](mailto:rituvyas141@gmail.com)
-- 👩🏻‍💼 **Portfolio:** [Ritu Vyas | Full Stack Engineer]([##########################################])
+- 👩🏻‍💼 **Portfolio:** [Ritu Vyas | Full Stack Engineer]([https://portfolio-seven-rho-64.vercel.app/])
 
 🌟 Open to new opportunities, collaborations, and exciting software projects. If you'd like to discuss technology, product ideas, or potential opportunities, let's connect!
