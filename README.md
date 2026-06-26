@@ -1,28 +1,24 @@
 ## 👋 Hi, I'm Ritu
 
-<h3>Full Stack Software Engineer</h3>
+### Full Stack Software Engineer
 
-<h4>🚀 React.js |  TypeScript  | Node.js | MongoDB | PostgreSQL</h4>
+#### 🚀 React.js | TypeScript | Node.js | MongoDB | PostgreSQL
 
-<h5>📊 Building enterprise reporting and analytics solutions for the Atlassian ecosystem</h5>
+##### 📊 Building enterprise reporting and analytics solutions for the Atlassian ecosystem.
 
-<h5>🌱 Currently learning System Design, AWS, PostgreSQL, and Advanced Backend Development</h5>
+##### 🌱 Currently learning System Design, AWS, PostgreSQL, and Advanced Backend Development.
 
 ## 💻 Tech Stack
 
-<ul>
-  <li>Languages: JavaScript, Typescript, Java</li>
-  <li>Frontend: ReactJs, NextJs, Tailwind CSS, Shadcn UI, TanStack Query</li>
-  <li>Backend: NodeJs, ExpressJs, REST APIs</li>
-  <li>Databases: PostgreSQL, MongoDB</li>
-  <li>Tools: Git, GitHub, Docker, CI/CD(GitHub Actions, Bitbucket Pipelines), Jira, Confluence</li>
-</ul>
+- **Languages:** JavaScript, TypeScript, Java
+- **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI, TanStack Query
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Docker, CI/CD (GitHub Actions, Bitbucket Pipelines), Jira, Confluence
 
-## 📬 Let's Connect:
+## 📬 Let's Connect
 
-<h5>✉️ Mail: rituvyas141@gmail.com</h5>
+- ✉️ **Email:** [rituvyas141@gmail.com](mailto:rituvyas141@gmail.com)
+- 👩🏻‍💼 **Portfolio:** [Ritu Vyas | Full Stack Engineer]([##########################################])
+
 🌟 Open to new opportunities, collaborations, and exciting software projects. If you'd like to discuss technology, product ideas, or potential opportunities, let's connect!
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
